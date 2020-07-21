@@ -1,0 +1,16 @@
+{
+  "id": "a050db69-fa57-4640-abf7-07d8f4d93141",
+  "name": "Livechat demo",
+  "description": null,
+  "default_flow": "Default",
+  "flows": [
+    {
+      "name": "Default",
+      "description": "Default custom flow",
+      "commands": []
+    }
+  ],
+  "files": [],
+  "functions": [],
+  "apps": []
+}
